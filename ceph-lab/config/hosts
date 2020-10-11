@@ -1,0 +1,7 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+172.16.200.10 ceph-bastion.ceph.lab ceph-bastion
+172.16.200.20 ceph-01.ceph.lab ceph-01
+172.16.200.21 ceph-02.ceph.lab ceph-02
+182.16.200.22 ceph-03.ceph.lab ceph-03
+
